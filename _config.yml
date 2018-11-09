@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+ï»¿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -23,21 +23,21 @@ weibo_username: bhmulberry
 # linkedIn_username: 
 # dribbble_username:
 
-description_footer: ±¾Õ¾¼ÇÂ¼ÎÒ×î·³µÄ[×ö¼ÇÂ¼]ÁôÏÂµÄ¼ÇÂ¼
+description_footer: æœ¬ç«™è®°å½•æˆ‘æœ€çƒ¦çš„ã€åšè®°å½•ã€‘ç•™ä¸‹çš„è®°å½•
 
 # comments
 # two ways to comment, only choose one, and use your own short name
-# Á½ÖÖÆÀÂÛ²å¼ş£¬Ñ¡Ò»¸ö¾ÍºÃÁË£¬Ê¹ÓÃ×Ô¼ºµÄ short_name
+# ä¸¤ç§è¯„è®ºæ’ä»¶ï¼Œé€‰ä¸€ä¸ªå°±å¥½äº†ï¼Œä½¿ç”¨è‡ªå·±çš„ short_name
 # duoshuo_shortname: #hygblog
 # disqus_shortname: #gaohaoyang
 
-# statistic analysis Í³¼Æ´úÂë
-# °Ù¶ÈÍ³¼Æ id£¬½«Í³¼Æ´úÂëÌæ»»Îª×Ô¼ºµÄ°Ù¶ÈÍ³¼Æid£¬¼´
+# statistic analysis ç»Ÿè®¡ä»£ç 
+# ç™¾åº¦ç»Ÿè®¡ idï¼Œå°†ç»Ÿè®¡ä»£ç æ›¿æ¢ä¸ºè‡ªå·±çš„ç™¾åº¦ç»Ÿè®¡idï¼Œå³
 # hm.src = "//hm.baidu.com/hm.js?xxxxxxxxxxxx";
 #https://hm.baidu.com/hm.js?77c1383f9064b5b6fefda4e655c239c1
-# xxxxx×Ö·û´®
+# xxxxxå­—ç¬¦ä¸²
 baidu_tongji_id: 77c1383f9064b5b6fefda4e655c239c1
-google_analytics_id: #UA-72449510-4 # google ·ÖÎö×·×Ùid
+google_analytics_id: #UA-72449510-4 # google åˆ†æè¿½è¸ªid
 
 # Build settings
 markdown: kramdown
