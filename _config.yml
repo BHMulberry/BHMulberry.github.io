@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: bhMulberry
+title: "bhMulberry"
 brief-intro: Front-end Dev Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://BHMulberry.github.io" # the base hostname & protocol for your site
@@ -16,7 +16,7 @@ permalink: /:year/:month/:day/:title/
 # other links
 # twitter_username: 
 # facebook_username: 
-github_username:BHMulberry
+github_username: BHMulberry
 email: bhmulberry@qq.com
 weibo_username: bhmulberry
 # zhihu_username: 
@@ -28,8 +28,8 @@ description_footer: 本站记录我最烦的【做记录】留下的记录
 # comments
 # two ways to comment, only choose one, and use your own short name
 # 两种评论插件，选一个就好了，使用自己的 short_name
-duoshuo_shortname: #hygblog
-disqus_shortname: #gaohaoyang
+# duoshuo_shortname: #hygblog
+# disqus_shortname: #gaohaoyang
 
 # statistic analysis 统计代码
 # 百度统计 id，将统计代码替换为自己的百度统计id，即
