@@ -14,14 +14,14 @@ url: "https://BHMulberry.github.io" # the base hostname & protocol for your site
 permalink: /:year/:month/:day/:title/
 
 # other links
-twitter_username: 
-facebook_username: 
-github_username:  BHMulberry
+# twitter_username: 
+# facebook_username: 
+github_username:BHMulberry
 email: bhmulberry@qq.com
 weibo_username: bhmulberry
-zhihu_username: 
-linkedIn_username: 
-dribbble_username:
+# zhihu_username: 
+# linkedIn_username: 
+# dribbble_username:
 
 description_footer: 本站记录我最烦的【做记录】留下的记录
 
