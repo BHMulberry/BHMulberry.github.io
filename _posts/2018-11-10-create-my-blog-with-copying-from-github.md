@@ -15,6 +15,8 @@ tags: jekyll github
 
 ###fork项目
 首先去github寻找大佬的博客，找到自己喜欢的样式之后，fork之。对于前端能看不能写的人，比如我，【真是赚到】。
+
+
 ![](https://ww2.sinaimg.cn/large/bfe05ea9ly1fx2vvay155j20fh0cwgq3.jpg)
 
 我fork到的项目是基于jekyll的，搭建过程原博客保留在这个博客里没有删除，详见：[Jekyll 搭建静态博客](https://bhmulberry.github.io/2015/02/15/create-my-blog-with-jekyll/)
