@@ -82,3 +82,11 @@ week
 欢迎大家使用，同时也欢迎小伙伴们为这个仓库贡献一些其他有趣的 markdown snippet，欢迎你的 pr。
 
 Enjoy it!
+
+$$
+\mathbf{V}_1 \times \mathbf{V}_2 = \begin{vmatrix}
+\mathbf{i} & \mathbf{j} & \mathbf{k} \
+\frac{\partial X}{\partial u} & \frac{\partial Y}{\partial u} & 0 \
+\frac{\partial X}{\partial v} & \frac{\partial Y}{\partial v} & 0 \
+\end{vmatrix}
+$$
