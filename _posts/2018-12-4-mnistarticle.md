@@ -2,7 +2,7 @@
 layout: post
 title:  "基于卷积神经网络、pyQt5以及mnist手写数据集实现的手写数字识别程序"
 categories: python
-tags: python api 新浪图床
+tags: python cnn pyQt5
 author: 马博瑞
 ---
 
